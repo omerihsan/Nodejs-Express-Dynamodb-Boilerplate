@@ -1,2 +1,7 @@
 # Nodejs-Express-Dynamodb-Boilerplate
- Old boilerplate code I made, pc cleanup, modules are updated to new versions
+ 
+ Old boilerplate code I made
+
+ modules are updated to new versions
+
+ Uses Dynamoose for dynamodb
