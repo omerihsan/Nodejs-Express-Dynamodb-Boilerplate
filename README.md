@@ -1,7 +1,5 @@
 # Nodejs-Express-Dynamodb-Boilerplate
- 
- Old boilerplate code I made
 
- modules are updated to new versions
+Easy quick package for express api
 
- Uses Dynamoose for dynamodb
+Uses Dynamoose for DynamoDB
